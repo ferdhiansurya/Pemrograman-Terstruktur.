@@ -37,7 +37,7 @@ def min(*myData):
     if nilai < angkaTerkecil:
       angkaTerkecil = nilai
   return angkaTerkecil
-
+print(average(23,45,49,51,56,58))
 
 
 
