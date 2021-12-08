@@ -1,0 +1,6 @@
+M01|ferdhian|Buku komik|2021-12-07|2021-12-14
+M02|surya|kamus bahasa mandarin|2021-11-30|2021-12-06
+M03|rajasa|buku matematika|2021-12-07|2021-12-14
+M04|nanda|novel romance|2021-12-07|2021-12-14
+M05|octamia|Buku resep masakan|2021-12-07|2021-12-14
+M06|octarajasa|kamus bahasa arab|2021-12-07|2021-12-14
